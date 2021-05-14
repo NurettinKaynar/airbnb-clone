@@ -1,6 +1,6 @@
 # Live Site 
 
-airbnb.narxtech.com
+https://airbnb.narxtech.com/
 
 # Getting Started with Create React App
 
